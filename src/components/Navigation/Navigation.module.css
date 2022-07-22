@@ -10,5 +10,5 @@
 
 .activeLink {
   composes: link;
-  color: #000000;
+  color: hwb(149 3% 0%);
 }
